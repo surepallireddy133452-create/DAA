@@ -143,8 +143,3 @@ int main()
 
     return 0;
 }
-
-Conclusion:
-The program successfully implements Heap Sort using both Max Heap and Min Heap.
-The Max Heap approach produces the elements in ascending order, while the Min 
-Heap approach usesan additional reversal step to obtain the same ascending order.
