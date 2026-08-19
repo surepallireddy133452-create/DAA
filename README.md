@@ -51,3 +51,11 @@ heapq and time modules (built-in)
 Conclusion
 
 The program demonstrates how Min-Heap and Max-Heap can be used to efficiently sort an array in ascending and descending order.
+
+SUMMARY OF PRACT-4:
+
+In this practical, we learned how to find the factorial of a number using two different methods: iterative and recursive. In the iterative method, we use a loop to multiply the numbers from 1 to the given number. In the recursive method, the function calls itself with a smaller value until it reaches the base condition. Both methods give the same factorial result, but they work in different ways.
+
+CONCLUSION:
+
+From this practical, we understood the difference between iterative and recursive approaches for solving a problem. Both methods are useful for calculating factorials, and this practical helped us understand how loops and recursion can be used to solve the same problem.
