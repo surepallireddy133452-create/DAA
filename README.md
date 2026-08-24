@@ -59,3 +59,12 @@ In this practical, we learned how to find the factorial of a number using two di
 CONCLUSION:
 
 From this practical, we understood the difference between iterative and recursive approaches for solving a problem. Both methods are useful for calculating factorials, and this practical helped us understand how loops and recursion can be used to solve the same problem.
+
+# PRACTICAL 7:Coin Change Problem Using Dynamic Programming
+This project provides a Python solution to the Coin Change Problem using Dynamic Programming. The program determines the minimum number of coins required to make a given target amount from a set of available coin denominations.
+
+The algorithm builds a dynamic programming table to store the minimum coins needed for every amount from 0 to the target value. By reusing previously computed results, it efficiently finds the optimal solution and avoids redundant calculations.
+
+If the target amount can be formed, the program returns the minimum number of coins required. Otherwise, it returns -1 to indicate that no valid combination exists.
+
+Features Efficient Dynamic Programming approach Finds the minimum number of coins required Handles impossible cases by returning -1 Simple and easy-to-understand Python implementation Complexity Time Complexity: O(n × amount) Space Complexity: O(amount) This project is useful for learning Dynamic Programming concepts, practicing algorithm design, and preparing for coding interviews.
