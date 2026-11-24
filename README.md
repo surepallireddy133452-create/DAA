@@ -77,3 +77,27 @@ The Knapsack Problem was implemented using Dynamic Programming to find the maxim
 
 Conclusion:
 Dynamic Programming provides an efficient and optimal solution to the Knapsack Problem, reducing repeated calculations and improving performance compared with the recursive approach.
+
+summary of pract-6:
+
+summary:
+The Matrix Chain Multiplication problem was successfully implemented using Dynamic Programming. The program accepts matrix dimensions from the user and finds the minimum number of scalar multiplications required.
+
+conclution:
+It also measures the execution time of the algorithm. The time complexity is O(n³) and the space complexity is O(n²). This approach efficiently determines the optimal order of matrix multiplication.
+
+summary of pract-8:
+
+summary:
+The Matrix Chain Multiplication problem was successfully implemented using Dynamic Programming. The program accepts matrix dimensions from the user and finds the minimum number of scalar multiplications required. It also measures the execution time of the algorithm. The time complexity is O(n³) and the space complexity is O(n²). This approach efficiently determines the optimal order of matrix multiplication
+
+conclution:
+Depth-First Search is a graph traversal algorithm that explores a graph by going as deep as possible before backtracking. It is useful for path finding, graph traversal, cycle detection, and connectivity checking.
+
+summary of pract-9:
+
+summary:
+Prim’s Algorithm is used to construct a Minimum Spanning Tree (MST) from a weighted undirected graph by selecting the minimum-weight edges. It connects all vertices with minimum total cost without forming cycles. The algorithm has a time complexity of O(V²), and the program calculates the execution time to analyze its performance.
+
+conclution:
+Prim’s Algorithm efficiently finds the Minimum Spanning Tree of a weighted graph by connecting all vertices using the minimum possible edge weights. It avoids cycles and produces a tree with minimum total cost. Thus, the algorithm helps optimize network connections and runs in \(O(V^2)\) time in this implementation.
